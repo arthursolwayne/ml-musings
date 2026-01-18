@@ -70,24 +70,24 @@ Fast learning fails because there is no time for integration; slow might be the 
 
 ## References
 
-<a id="ref-1"></a>[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/) Koch et al. 2006 https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/
+<a id="ref-1"></a>1. **^** Koch, K. et al. (2006). "[How Much the Eye Tells the Brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/)". *Current Biology*.
 
-<a id="ref-2"></a>[[2]](https://pubmed.ncbi.nlm.nih.gov/39694032/) Zheng & Meister 2024 https://pubmed.ncbi.nlm.nih.gov/39694032/
+<a id="ref-2"></a>2. **^** Zheng, J.; Meister, M. (2024). "[The unbearable slowness of being: Why do we live at 10 bits/s?](https://pubmed.ncbi.nlm.nih.gov/39694032/)". *Neuron*.
 
-<a id="ref-3"></a>[[3]](https://www.science.org/doi/10.1126/sciadv.aaw2594) Coupé et al. 2019 https://www.science.org/doi/10.1126/sciadv.aaw2594
+<a id="ref-3"></a>3. **^** Coupé, C. et al. (2019). "[Different languages, similar encoding efficiency](https://www.science.org/doi/10.1126/sciadv.aaw2594)". *Science Advances*.
 
-<a id="ref-4"></a>[[4]](https://www.sciencedirect.com/science/article/abs/pii/S0364021386800143) Landauer 1986 https://www.sciencedirect.com/science/article/abs/pii/S0364021386800143
+<a id="ref-4"></a>4. **^** Landauer, T. (1986). "[How much do people remember?](https://www.sciencedirect.com/science/article/abs/pii/S0364021386800143)". *Cognitive Science*.
 
-<a id="ref-5"></a>[[5]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/) Ren, Takahashi & Tanaka-Ishii 2019 https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/
+<a id="ref-5"></a>5. **^** Ren, G.; Takahashi, S.; Tanaka-Ishii, K. (2019). "[Entropy Rate Estimation for English](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/)". *Entropy*.
 
-<a id="ref-6"></a>[[6]](https://pubmed.ncbi.nlm.nih.gov/11515286/) Cowan 2001 https://pubmed.ncbi.nlm.nih.gov/11515286/
+<a id="ref-6"></a>6. **^** Cowan, N. (2001). "[The magical number 4 in short-term memory](https://pubmed.ncbi.nlm.nih.gov/11515286/)". *Behavioral and Brain Sciences*.
 
-<a id="ref-7"></a>[[7]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4983232/) Chekaf, Cowan & Mathy 2016 https://pmc.ncbi.nlm.nih.gov/articles/PMC4983232/
+<a id="ref-7"></a>7. **^** Chekaf, M.; Cowan, N.; Mathy, F. (2016). "[Chunk formation in immediate memory](https://pmc.ncbi.nlm.nih.gov/articles/PMC4983232/)". *Cognition*.
 
-<a id="ref-8"></a>[[8]](https://www.humanlayer.dev/blog/brief-history-of-ralph) Huntley 2025 https://www.humanlayer.dev/blog/brief-history-of-ralph
+<a id="ref-8"></a>8. **^** Huntley, G. (2025). "[A brief history of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)". *HumanLayer*.
 
-<a id="ref-e1"></a>[[e1]](fermi_superforecasts/bits_per_chunk.md) Estimate: Bits Per Chunk
+<a id="ref-e1"></a>e1. **^** Estimate: [Bits Per Chunk](fermi_superforecasts/bits_per_chunk.md)
 
-<a id="ref-e2"></a>[[e2]](fermi_superforecasts/working_memory_bits.md) Estimate: Working Memory Bits
+<a id="ref-e2"></a>e2. **^** Estimate: [Working Memory Bits](fermi_superforecasts/working_memory_bits.md)
 
-<a id="ref-e3"></a>[[e3]](fermi_superforecasts/llm_verbatim_recall.md) Estimate: LLM Verbatim Recall
+<a id="ref-e3"></a>e3. **^** Estimate: [LLM Verbatim Recall](fermi_superforecasts/llm_verbatim_recall.md)
