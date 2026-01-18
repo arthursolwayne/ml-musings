@@ -16,7 +16,7 @@ Facts and hypotheses on machine learning, memory, and cognition.
 
 5. LLM output is ~10²-10⁴ bits/s depending on deployment. [conversation, 2025-01]
 
-6. English text entropy is ~0.6-1.3 bits/character. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/)
+6. English text entropy is ~0.6-1.3 bits/character. [Ren, Takahashi & Tanaka-Ishii 2019](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/)
 
 ### Memory
 
