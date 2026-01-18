@@ -36,9 +36,9 @@ Facts and hypotheses on machine learning, memory, and cognition.
 
 ### Comparison
 
-14. In interactive chat, the human is the bottleneck at ~10-50 bits/s; LLMs emit faster than humans can absorb. [Zheng & Meister 2024](https://pubmed.ncbi.nlm.nih.gov/39694032/)
+14. In interactive chat, human cognitive throughput (~10-50 bits/s) is lower than LLM output throughput (~10²-10⁴ bits/s). [Zheng & Meister 2024](https://pubmed.ncbi.nlm.nih.gov/39694032/)
 
-15. For raw sensory input, humans win by a landslide (10⁷-10⁹ bits/s vs LLM's text-only channel). [Koch et al. 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/), [Zheng & Meister 2024](https://pubmed.ncbi.nlm.nih.gov/39694032/)
+15. Human sensory input bandwidth (10⁷-10⁹ bits/s) exceeds LLM text bandwidth (10²-10⁴ bits/s) by 3-7 orders of magnitude. [Koch et al. 2006](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/), [Zheng & Meister 2024](https://pubmed.ncbi.nlm.nih.gov/39694032/)
 
 16. Human memory is continuously lossy with narrative confabulation; LLM memory is perfectly volatile with hard cutoffs. [conversation, 2025-01]
 
