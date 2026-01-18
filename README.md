@@ -36,11 +36,15 @@ Facts and hypotheses on machine learning, memory, and cognition.
 
 ### Comparison
 
-14. Human memory is continuously lossy with narrative confabulation; LLM memory is perfectly volatile with hard cutoffs. [conversation, 2025-01]
+14. In interactive chat, the human is the bottleneck at ~10-50 bits/s; LLMs emit faster than humans can absorb. [conversation, 2025-01]
 
-15. LLMs are atemporal; humans live in the time dimension. [conversation, 2025-01]
+15. For raw sensory input, humans win by a landslide (10⁷-10⁹ bits/s vs LLM's text-only channel). [conversation, 2025-01]
 
-16. CLI interfaces are more token-efficient for LLM agents than REST/MCP/JSON. [conversation, 2025-01]
+16. Human memory is continuously lossy with narrative confabulation; LLM memory is perfectly volatile with hard cutoffs. [conversation, 2025-01]
+
+17. LLMs are atemporal; humans live in the time dimension. [conversation, 2025-01]
+
+18. CLI interfaces are more token-efficient for LLM agents than REST/MCP/JSON. [conversation, 2025-01]
 
 ## Hypotheses
 
