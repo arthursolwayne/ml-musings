@@ -86,8 +86,8 @@ Fast learning fails because there is no time for integration; slow might be the 
 
 <a id="ref-8"></a>8. [**^**](#facts) Huntley, G. (2025). "[A brief history of Ralph](https://www.humanlayer.dev/blog/brief-history-of-ralph)". *HumanLayer*.
 
-<a id="ref-e1"></a>e1. [**^**](#facts) Arthur; Claude (2025). "[Bits Per Chunk](fermi_superforecasts/bits_per_chunk.md)".
+<a id="ref-e1"></a>e1. [**^**](#facts) Arthur, Claude (2025). "[Bits Per Chunk](fermi_superforecasts/bits_per_chunk.md)".
 
-<a id="ref-e2"></a>e2. [**^**](#facts) Arthur; Claude (2025). "[Working Memory Bits](fermi_superforecasts/working_memory_bits.md)".
+<a id="ref-e2"></a>e2. [**^**](#facts) Arthur, Claude (2025). "[Working Memory Bits](fermi_superforecasts/working_memory_bits.md)".
 
-<a id="ref-e3"></a>e3. [**^**](#facts) Arthur; Claude (2025). "[LLM Verbatim Recall](fermi_superforecasts/llm_verbatim_recall.md)".
+<a id="ref-e3"></a>e3. [**^**](#facts) Arthur, Claude (2025). "[LLM Verbatim Recall](fermi_superforecasts/llm_verbatim_recall.md)".
