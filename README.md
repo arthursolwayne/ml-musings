@@ -70,24 +70,24 @@ Fast learning fails because there is no time for integration; slow might be the 
 
 ## References
 
-<a id="ref-1"></a>[1] Koch et al. 2006 https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/
+<a id="ref-1"></a>[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC1564115/) Koch et al. 2006
 
-<a id="ref-2"></a>[2] Zheng & Meister 2024 https://pubmed.ncbi.nlm.nih.gov/39694032/
+<a id="ref-2"></a>[[2]](https://pubmed.ncbi.nlm.nih.gov/39694032/) Zheng & Meister 2024
 
-<a id="ref-3"></a>[3] Coupé et al. 2019 https://www.science.org/doi/10.1126/sciadv.aaw2594
+<a id="ref-3"></a>[[3]](https://www.science.org/doi/10.1126/sciadv.aaw2594) Coupé et al. 2019
 
-<a id="ref-4"></a>[4] Landauer 1986 https://www.sciencedirect.com/science/article/abs/pii/S0364021386800143
+<a id="ref-4"></a>[[4]](https://www.sciencedirect.com/science/article/abs/pii/S0364021386800143) Landauer 1986
 
-<a id="ref-5"></a>[5] Ren, Takahashi & Tanaka-Ishii 2019 https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/
+<a id="ref-5"></a>[[5]](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514546/) Ren, Takahashi & Tanaka-Ishii 2019
 
-<a id="ref-6"></a>[6] Cowan 2001 https://pubmed.ncbi.nlm.nih.gov/11515286/
+<a id="ref-6"></a>[[6]](https://pubmed.ncbi.nlm.nih.gov/11515286/) Cowan 2001
 
-<a id="ref-7"></a>[7] Chekaf, Cowan & Mathy 2016 https://pmc.ncbi.nlm.nih.gov/articles/PMC4983232/
+<a id="ref-7"></a>[[7]](https://pmc.ncbi.nlm.nih.gov/articles/PMC4983232/) Chekaf, Cowan & Mathy 2016
 
-<a id="ref-8"></a>[8] Huntley 2025 https://www.humanlayer.dev/blog/brief-history-of-ralph
+<a id="ref-8"></a>[[8]](https://www.humanlayer.dev/blog/brief-history-of-ralph) Huntley 2025
 
-<a id="ref-e1"></a>[e1] [estimate](fermi_superforecasts/bits_per_chunk.md)
+<a id="ref-e1"></a>[[e1]](fermi_superforecasts/bits_per_chunk.md) estimate
 
-<a id="ref-e2"></a>[e2] [estimate](fermi_superforecasts/working_memory_bits.md)
+<a id="ref-e2"></a>[[e2]](fermi_superforecasts/working_memory_bits.md) estimate
 
-<a id="ref-e3"></a>[e3] [estimate](fermi_superforecasts/llm_verbatim_recall.md)
+<a id="ref-e3"></a>[[e3]](fermi_superforecasts/llm_verbatim_recall.md) estimate
